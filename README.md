@@ -5,8 +5,8 @@
 ######
 Reference
 > https://stackabuse.com/python-zlib-library-tutorial/
-> https://docs.python.org/3/library/zlib.html
-> https://jeongzzang.com/143
+ https://docs.python.org/3/library/zlib.html
+ https://jeongzzang.com/143
 
 Python zlib can be found through the reference link.
 The HwpScan2 tool can check the analysis information on vulnerability and file structure of Korean (HWP) document files.
